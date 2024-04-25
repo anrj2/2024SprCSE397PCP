@@ -32,7 +32,7 @@ classDiagram
       Project : +Customer(BroClements)
       class FrontEnd{
           +String Lead()
-          +String TeamMember()
+          +String TeamMember(Joshua Ellis)
 
       }
       class BackEnd{
