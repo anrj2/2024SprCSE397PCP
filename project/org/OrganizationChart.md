@@ -1,4 +1,5 @@
 Week 1-2
+
 ```mermaid
 classDiagram
       Project <|-- Requirements
@@ -13,7 +14,7 @@ classDiagram
       }
       class DevEnvironment{
           +String Lead()
-          +String TeamMember()
+          +String TeamMember(Junwoo Jeong)
           +String TeamMember()
       }
       class RuntimeEnvironment{
@@ -22,7 +23,9 @@ classDiagram
           +String TeamMember()
       }
 ```
+
 Rest of the Semester
+
 ```mermaid
 classDiagram
       Project <|-- FrontEnd
@@ -42,6 +45,6 @@ classDiagram
       }
       class Database{
           +String Lead()
-          +String TeamMember()
+          +String TeamMember(Junwoo Jeong)
       }
 ```
