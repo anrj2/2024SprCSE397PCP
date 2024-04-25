@@ -18,7 +18,7 @@ classDiagram
       }
       class RuntimeEnvironment{
           +String Lead()
-          +String TeamMember()
+          +String TeamMember(Abby Joseph)
           +String TeamMember()
       }
 ```
@@ -43,6 +43,6 @@ classDiagram
       }
       class Database{
           +String Lead()
-          +String TeamMember()
+          +String TeamMember(Abby Joseph)
       }
 ```
