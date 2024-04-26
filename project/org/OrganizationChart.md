@@ -21,7 +21,7 @@ classDiagram
       class RuntimeEnvironment{
           +String Lead()
           +String TeamMember(Parker Jackman)
-          +String TeamMember()
+          +String TeamMember(Abby Joseph)
       }
 ```
 Rest of the Semester
@@ -47,7 +47,7 @@ classDiagram
       }
       class Database{
           +String Lead()
-          +String TeamMember()
+          +String TeamMember(Abby Joseph)
           +String TeamMember(Lexie Veblungsnes)
           +String TeamMember(Xing Gao)
       
