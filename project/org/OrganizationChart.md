@@ -10,6 +10,7 @@ classDiagram
           +String Lead()
           +String TeamMember(Joshua Ellis)
           +String TeamMember(Lexie Veblungsnes)
+          +String TeamMember(Xing Gao)
 
       }
       class DevEnvironment{
@@ -41,11 +42,14 @@ classDiagram
           +String TeamMember(Collette Stapley)
           +String TeamMember(Jake Ard)
           +String TeamMember(Lexie Veblungsnes)
+          +String TeamMember(Xing Gao)
 
       }
       class Database{
           +String Lead()
           +String TeamMember()
           +String TeamMember(Lexie Veblungsnes)
+          +String TeamMember(Xing Gao)
+      
       }
 ```
