@@ -53,6 +53,7 @@ classDiagram
           +String TeamMember()
           +String TeamMember(Lexie Veblungsnes)
           +String TeamMember(Xing Gao)
+          +String TeamMember(Sam Hendricks)
       
       }
 ```
