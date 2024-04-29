@@ -45,8 +45,8 @@ classDiagram
           +String TeamMember(Jake Ard)
           +String TeamMember(Lexie Veblungsnes)
           +String TeamMember(Xing Gao)
+          +String TeamMember(Zachary Scieneaux)
           +String TeamMember(Sam Hendricks)
-
       }
       class Database{
           +String Lead()
