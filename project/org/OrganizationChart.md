@@ -17,6 +17,7 @@ classDiagram
           +String Lead()
           +String TeamMember(Collette Stapley)
           +String TeamMember(Jake Ard)
+          +String TeamMember(Cameron Christensen)
       }
       class RuntimeEnvironment{
           +String Lead()
@@ -36,6 +37,7 @@ classDiagram
           +String Lead()
           +String TeamMember(Joshua Ellis)
           +String TeamMember(Parker Jackman)
+          +String TeamMember(Cameron Christensen)
       }
       class BackEnd{
           +String Lead()
@@ -44,12 +46,14 @@ classDiagram
           +String TeamMember(Lexie Veblungsnes)
           +String TeamMember(Xing Gao)
           +String TeamMember(Zachary Scieneaux)
+          +String TeamMember(Sam Hendricks)
       }
       class Database{
           +String Lead()
           +String TeamMember()
           +String TeamMember(Lexie Veblungsnes)
           +String TeamMember(Xing Gao)
+          +String TeamMember(Sam Hendricks)
       
       }
 ```
