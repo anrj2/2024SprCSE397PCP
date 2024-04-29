@@ -21,6 +21,7 @@ classDiagram
       }
       class RuntimeEnvironment{
           +String Lead()
+          +String TeamMember(Abby Joseph)
           +String TeamMember(Parker Jackman)
           +String TeamMember()
       }
@@ -54,6 +55,6 @@ classDiagram
           +String TeamMember(Lexie Veblungsnes)
           +String TeamMember(Xing Gao)
           +String TeamMember(Sam Hendricks)
-      
+          +String TeamMember(Abby Joseph)
       }
 ```
